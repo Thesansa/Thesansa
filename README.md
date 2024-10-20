@@ -1,5 +1,5 @@
 👋 Hi, I’m @Thesansa
-Hi, I’m @Thesansa, an undergrad exploring the world of UI design.
+ an undergrad exploring the world of UI design.
 
 👀 I’m interested in ...
 I’m interested in user interface design, web design, and creating clean, simple digital experiences.
