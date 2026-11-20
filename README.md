@@ -1,23 +1,56 @@
-👋 Hi, I’m @Thesansa
-An undergrad exploring the broad world of ICT and technology.
 
-👀 I’m interested in ...
-AI, web development, UI/UX design, and the exciting intersection where AI meets web and user experience.
+# Hi there, I'm Semali! 👋
 
-💞️ I’m looking to collaborate on ...
-Projects that combine AI and web development, beginner to intermediate design tasks, and learning alongside others in tech communities.
+🎓 **MIS Undergraduate | Aspiring Software Engineer | Exploring DevOps & Cloud Engineering**
 
-📫 How to reach me ...
-You can reach me via email at [thesansasemali@gmail.com](mailto:thesansasemali@gmail.com)
+I'm an undergraduate at NSBM Green University with an interest in building practical software solutions and understanding how applications work beyond the user interface.
 
-😄 Pronouns: ...
-She/Her
+I enjoy working across backend development, databases, and deployment workflows while continuously exploring new technologies and improving my engineering skills.
 
-⚡ Fun fact: ...
-I get inspired by everyday objects when designing!
+---
 
+## 💻 Technologies & Tools
 
-<!---
-Thesansa/Thesansa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Languages:** Java, JavaScript, Python
+- **Frontend:** React, HTML, CSS
+- **Backend:** Spring Boot, REST APIs
+- **Databases:** MySQL, PostgreSQL
+- **DevOps & Cloud:** Docker, Docker Compose, GitHub Actions, Kubernetes, Microsoft Azure
+- **Tools:** Git, GitHub, Postman, Figma
+
+## 🚀 Featured Projects
+
+### Personal Safety Application
+
+A full-stack emergency alert application featuring SOS activation, location capture, trusted contacts, and emergency escalation.
+
+**Technologies:** React, Spring Boot, PostgreSQL, Docker, Docker Compose, GitHub Actions, GHCR, Kubernetes, Microsoft Azure.
+
+### Career Recommendation System
+
+An academic full-stack project focused on providing career recommendations.
+
+**Technologies:** React, Spring Boot, MySQL.
+
+## 🌱 Currently Learning
+
+- Backend development and software engineering practices
+- DevOps workflows and container orchestration
+- Cloud infrastructure and Microsoft Azure
+- Application security, testing, and system design
+
+## 🤝 Let's Connect!
+
+I'm interested in collaborating on software development projects, learning from other developers, and exploring opportunities to grow within the software engineering and cloud technology space.
+
+- 📧 **Email:** [thesansasemali@gmail.com](mailto:thesansasemali@gmail.com)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/semali-perera-3ab71b342)
+- 🐙 **GitHub:** [@Thesansa](https://github.com/Thesansa)
+
+## ⚡ A Little About Me
+
+I get inspired by everyday objects when designing, enjoy exploring creative ideas, and love learning how technology can solve real-world problems.
+
+---
+
+*Always learning. Always building. Always improving.*
